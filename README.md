@@ -1,40 +1,33 @@
 <!-- 🔥 CUSTOM BANNER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66A6FF,100:89F7FE&height=200&section=header&text=Tonmoy%20Datta%20Topu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- 👤 NAME -->
-
-<h1 align="center">𝙏𝙤𝙣𝙢𝙤𝙮 𝘿𝙖𝙩𝙩𝙖 𝙏𝙤𝙥𝙪</h1>
-
 <!-- 🧠 IDENTITY -->
-
 <p align="center">
-  <b>Aspiring Flutter Developer • Building Real Apps</b>
+  <b>Aspiring Flutter Developer • Building Real Mobile Apps</b>
 </p>
 
-<!-- ⚡ BETTER TYPING ANIMATION -->
-
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=I+build+clean+mobile+apps;Turning+ideas+into+UI;Learning+Flutter+by+doing;Consistency+over+perfection&center=true&width=550&height=45">
 </p>
 
 ---
 
-## 🧬 About
+## 🧬 About Me
 
-I’m a Flutter developer focused on building **clean, responsive, and user-friendly mobile applications**.
-I believe in learning through real-world projects and improving consistently with each build.
+I am a Flutter developer focused on building **clean, responsive, and user-friendly mobile applications**.  
+I learn by building real projects and improving step by step.
 
 ---
 
 ## 🚀 Current Focus
 
-* 📱 Building Flutter UI apps
-* 🎨 Improving animations & design sense
-* 🧠 Strengthening Dart fundamentals
-* 🔥 Preparing for logic & API-based apps
+- 📱 Building Flutter UI applications  
+- 🎨 Improving animations & UI design  
+- 🧠 Strengthening Dart fundamentals  
+- 🔥 Preparing for API + logic-based apps  
 
 ---
 
@@ -45,6 +38,7 @@ I believe in learning through real-world projects and improving consistently wit
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -55,12 +49,13 @@ I believe in learning through real-world projects and improving consistently wit
 
 A modern Flutter application showcasing a personal profile with smooth UI and interactive features.
 
-✨ **Highlights:**
+✨ **Key Features:**
+- Smooth fade-in animation using `AnimatedOpacity`
+- Gradient-based UI design
+- Tap to copy phone & email (Clipboard)
+- Snackbar feedback system
 
-* Smooth fade-in animation (`AnimatedOpacity`)
-* Gradient-based UI design
-* Clipboard interaction (copy phone & email)
-* Snackbar feedback system
+🛠 **Tech Used:** Flutter • Dart • Material UI • Google Fonts  
 
 🔗 https://github.com/tonmoyofcl01-web/business-card-app
 
@@ -76,7 +71,7 @@ A modern Flutter application showcasing a personal profile with smooth UI and in
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:tonmoy.ofcl01@gmail.com">
@@ -86,6 +81,6 @@ A modern Flutter application showcasing a personal profile with smooth UI and in
 
 ---
 
-## ⚡ Mindset
+## ⚡ Developer Mindset
 
 > Building skills one project at a time — no shortcuts 🚀

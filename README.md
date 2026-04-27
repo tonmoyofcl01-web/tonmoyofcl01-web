@@ -1,11 +1,11 @@
-<!-- 🔥 CUSTOM BANNER (IMPROVED BRANDING STYLE) -->
+<!-- 🔥 CUSTOM BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66A6FF,100:89F7FE&height=220&section=header&text=Tonmoy%20Datta%20Topu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 🧠 IDENTITY -->
 <p align="center">
-  <b>Aspiring Flutter Developer • Mobile App Builder • UI Enthusiast</b>
+  <b>Aspiring Flutter Developer • Building Real Mobile Apps</b>
 </p>
 
 <!-- ⚡ TYPING ANIMATION -->
@@ -28,16 +28,16 @@
 
 I am a Flutter developer focused on building **clean, responsive, and user-friendly mobile applications**.
 
-👉 I believe in learning by building real-world apps instead of just watching tutorials.
+👉 I learn by building real-world projects instead of just watching tutorials.
 
 ---
 
 ## 🚀 Current Focus
 
 - 📱 Flutter UI development  
-- 🎨 Animations & modern design systems  
+- 🎨 Animations & modern UI design  
 - 🧠 Dart + app logic fundamentals  
-- 🔥 Preparing for API-based applications  
+- 🔥 Preparing for API-based apps  
 
 ---
 
@@ -58,20 +58,20 @@ I am a Flutter developer focused on building **clean, responsive, and user-frien
 ### 📇 Business Card App
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/business-card-preview.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/tonmoyofcl01-web/business-card-app/main/assets/screenshot.png" width="300"/>
 </p>
 
 A modern Flutter application showcasing a personal profile with smooth UI and interactive features.
 
 ✨ **Key Features:**
-- Smooth fade-in animation (`AnimatedOpacity`)
-- Gradient-based UI design
-- Tap to copy phone & email (Clipboard)
-- Snackbar feedback system
+- Smooth fade-in animation using `AnimatedOpacity`  
+- Gradient-based UI design  
+- Tap to copy phone & email (Clipboard)  
+- Snackbar feedback system  
 
 🛠 **Tech Used:** Flutter • Dart • Material UI • Google Fonts  
 
-🔗 [View Project](https://github.com/tonmoyofcl01-web/business-card-app)
+🔗 https://github.com/tonmoyofcl01-web/business-card-app  
 
 ---
 

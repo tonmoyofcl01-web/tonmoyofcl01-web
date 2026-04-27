@@ -8,26 +8,39 @@
   <b>Aspiring Flutter Developer • Building Real Mobile Apps</b>
 </p>
 
-<!-- ⚡ TYPING ANIMATION -->
+<!-- ⚡ TYPING ANIMATION (UPGRADED PERSONALITY) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I+build+clean+mobile+apps;Turning+ideas+into+UI;Learning+Flutter+by+doing;Consistency+over+perfection&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+in+Progress;I+turn+ideas+into+mobile+apps;Clean+UI+%7C+Smooth+UX+%7C+Real+Projects;Learning+by+building+every+day&center=true&width=600&height=45">
+</p>
+
+---
+
+<!-- 📊 QUICK STATS (NEW IMPROVEMENT) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Flutter-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-66A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-Mobile%20App%20Developer-89F7FE?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧬 About Me
 
-I am a Flutter developer focused on building **clean, responsive, and user-friendly mobile applications**.  
-I learn by building real projects and improving step by step.
+I am a Flutter developer focused on building **clean, responsive, and user-friendly mobile applications**.
+
+👉 My goal is simple:  
+**Learn by building real apps, not just tutorials.**
+
+Every project I build improves my UI sense, logic, and development confidence.
 
 ---
 
 ## 🚀 Current Focus
 
 - 📱 Building Flutter UI applications  
-- 🎨 Improving animations & UI design  
-- 🧠 Strengthening Dart fundamentals  
-- 🔥 Preparing for API + logic-based apps  
+- 🎨 Improving animations & modern UI design  
+- 🧠 Strengthening Dart & app logic  
+- 🔥 Preparing for API & real-world apps  
 
 ---
 
@@ -83,4 +96,4 @@ A modern Flutter application showcasing a personal profile with smooth UI and in
 
 ## ⚡ Developer Mindset
 
-> Building skills one project at a time — no shortcuts 🚀
+> I don’t aim for perfection — I aim for progress. One app at a time 🚀

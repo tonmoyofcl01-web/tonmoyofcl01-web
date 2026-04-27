@@ -1,65 +1,52 @@
+<!-- Fancy Name -->
+
+<h1 align="center">
+  𝙏𝙤𝙣𝙢𝙤𝙮 𝘿𝙖𝙩𝙩𝙖 𝙏𝙤𝙥𝙪
+</h1>
+
+<!-- Subtitle -->
+
+<p align="center">
+  <b>Aspiring Flutter Developer</b>
+</p>
+
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Flutter+Developer;Building+Real+Mobile+Apps;Learning+Every+Day&center=true&width=500&height=50">
-</p>
-
-<h1 align="center">Hi 👋, I'm Tonmoy</h1>
-
-<p align="center">
-💻 Aspiring Flutter Developer <br>
-🚀 Focused on building clean & interactive mobile apps <br>
-🎯 On a journey to become a professional app developer
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Mobile+Apps;Learning+Flutter+and+Dart;Improving+Every+Day&center=true&width=520&height=45">
 </p>
 
 ---
 
-## 🧬 About Me
+## 🚀 About Me
 
-I am a beginner Flutter developer who believes in **learning by building real projects**.
-Currently focused on improving UI skills, animations, and user interaction in mobile apps.
-
----
-
-## 🚀 Current Activities
-
-* 📱 Building Flutter apps from scratch
-* 🎨 Learning UI design & animations
-* 🧠 Improving Dart fundamentals
-* 🔥 Preparing for more advanced projects (API, logic-based apps)
+I’m focused on building clean and interactive mobile apps using Flutter.
+Currently learning by creating real projects and improving step by step.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 📱 Project
 
 ### 📇 Business Card App
 
-A clean and modern Flutter app that showcases a personal profile with smooth UI and interactive features.
+A modern Flutter app with smooth UI and interactive features.
 
-✨ **Key Features:**
-
-* Smooth fade-in animation using `AnimatedOpacity`
+* Animated fade-in effect
 * Gradient UI design
-* Profile avatar with styled border
-* Tap to copy phone & email (Clipboard)
-* Snackbar feedback system
+* Tap to copy phone & email
+* Snackbar feedback
 
-🛠 **Tech Used:**
-Flutter • Dart • Material UI • Google Fonts
-
-🔗 **Repository:**
-https://github.com/tonmoyofcl01-web/business-card-app
+🔗 https://github.com/tonmoyofcl01-web/business-card-app
 
 ---
 
@@ -67,7 +54,6 @@ https://github.com/tonmoyofcl01-web/business-card-app
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyofcl01-web&theme=tokyonight" />
 </p>
 
 ---
@@ -79,9 +65,3 @@ https://github.com/tonmoyofcl01-web/business-card-app
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ Mindset
-
-> I focus on consistency over perfection — building one app at a time 🚀

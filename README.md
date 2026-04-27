@@ -1,21 +1,21 @@
-<!-- 🔥 CUSTOM BANNER -->
+<!-- 🔥 CUSTOM BANNER (IMPROVED BRANDING STYLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66A6FF,100:89F7FE&height=200&section=header&text=Tonmoy%20Datta%20Topu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66A6FF,100:89F7FE&height=220&section=header&text=Tonmoy%20Datta%20Topu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 🧠 IDENTITY -->
 <p align="center">
-  <b>Aspiring Flutter Developer • Building Real Mobile Apps</b>
+  <b>Aspiring Flutter Developer • Mobile App Builder • UI Enthusiast</b>
 </p>
 
-<!-- ⚡ TYPING ANIMATION (UPGRADED PERSONALITY) -->
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+in+Progress;I+turn+ideas+into+mobile+apps;Clean+UI+%7C+Smooth+UX+%7C+Real+Projects;Learning+by+building+every+day&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+in+Progress;I+build+clean+mobile+apps;Turning+ideas+into+real+UI;Learning+by+building+every+day&center=true&width=600&height=45">
 </p>
 
 ---
 
-<!-- 📊 QUICK STATS (NEW IMPROVEMENT) -->
+<!-- 📊 STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Flutter-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-66A6FF?style=for-the-badge"/>
@@ -28,19 +28,16 @@
 
 I am a Flutter developer focused on building **clean, responsive, and user-friendly mobile applications**.
 
-👉 My goal is simple:  
-**Learn by building real apps, not just tutorials.**
-
-Every project I build improves my UI sense, logic, and development confidence.
+👉 I believe in learning by building real-world apps instead of just watching tutorials.
 
 ---
 
 ## 🚀 Current Focus
 
-- 📱 Building Flutter UI applications  
-- 🎨 Improving animations & modern UI design  
-- 🧠 Strengthening Dart & app logic  
-- 🔥 Preparing for API & real-world apps  
+- 📱 Flutter UI development  
+- 🎨 Animations & modern design systems  
+- 🧠 Dart + app logic fundamentals  
+- 🔥 Preparing for API-based applications  
 
 ---
 
@@ -60,17 +57,21 @@ Every project I build improves my UI sense, logic, and development confidence.
 
 ### 📇 Business Card App
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/business-card-preview.png" width="300"/>
+</p>
+
 A modern Flutter application showcasing a personal profile with smooth UI and interactive features.
 
 ✨ **Key Features:**
-- Smooth fade-in animation using `AnimatedOpacity`
+- Smooth fade-in animation (`AnimatedOpacity`)
 - Gradient-based UI design
 - Tap to copy phone & email (Clipboard)
 - Snackbar feedback system
 
 🛠 **Tech Used:** Flutter • Dart • Material UI • Google Fonts  
 
-🔗 https://github.com/tonmoyofcl01-web/business-card-app
+🔗 [View Project](https://github.com/tonmoyofcl01-web/business-card-app)
 
 ---
 

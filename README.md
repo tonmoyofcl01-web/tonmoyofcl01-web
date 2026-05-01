@@ -53,7 +53,7 @@ I am a Flutter developer focused on building **clean, responsive, and user-frien
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📇 Business Card App
 
@@ -64,14 +64,35 @@ I am a Flutter developer focused on building **clean, responsive, and user-frien
 A modern Flutter application showcasing a personal profile with smooth UI and interactive features.
 
 ✨ **Key Features:**
-- Smooth fade-in animation using `AnimatedOpacity`  
-- Gradient-based UI design  
-- Tap to copy phone & email (Clipboard)  
-- Snackbar feedback system  
+- Smooth fade-in animation using `AnimatedOpacity`
+- Gradient-based UI design
+- Tap to copy phone & email
+- Snackbar feedback system
 
 🛠 **Tech Used:** Flutter • Dart • Material UI • Google Fonts  
 
 🔗 https://github.com/tonmoyofcl01-web/business-card-app  
+
+---
+
+### 🌤️ Mood Tracker App
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tonmoyofcl01-web/mood_app/main/assets/screenshots/mood_screenshot.png" width="300"/>
+</p>
+
+A clean and interactive Flutter app that helps users track their daily moods with history and timestamps.
+
+✨ **Key Features:**
+- Select daily mood (Happy, Sad, Angry, Sleepy)
+- Animated UI with modern card design
+- Mood history tracking with timestamps
+- Dynamic UI updates using state management
+- Grid-based responsive layout
+
+🛠 **Tech Used:** Flutter • Dart • Material 3 UI  
+
+🔗 https://github.com/tonmoyofcl01-web/mood_app  
 
 ---
 

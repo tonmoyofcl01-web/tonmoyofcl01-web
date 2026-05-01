@@ -83,14 +83,14 @@ A clean Flutter app that helps users track daily moods with history and timestam
 
 ---
 
-## 📊 Performance & Milestones
+## 📈 Activity & Milestones
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tonmoyofcl01-web&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tonmoy's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoyofcl01-web&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">

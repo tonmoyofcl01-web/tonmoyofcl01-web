@@ -103,7 +103,7 @@ A clean Flutter app that helps users track daily moods with history and timestam
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tonmoyofcl01-web&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tonmoyofcl01-web&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

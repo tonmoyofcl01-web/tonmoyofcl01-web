@@ -96,21 +96,28 @@ A clean Flutter app that helps users track daily moods with history and timestam
 
 ---
 
-## 📊 GitHub Activity
+## 🛠 My Development Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Stage-Building_Complex_UIs-02569B?style=flat-square&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Next_Stop-State_Management-66A6FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Learning-Firebase_Backend-89F7FE?style=flat-square"/>
+</p>
+
+### 📈 Consistency Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoyofcl01-web&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tonmoyofcl01-web/tonmoyofcl01-web/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tonmoyofcl01-web&style=for-the-badge&color=66A6FF" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Apps-66A6FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Level-Learning%20%2B%20Building-89F7FE?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyofcl01-web&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
 ## 📫 Connect With Me

@@ -78,7 +78,7 @@ A modern Flutter application showcasing a personal profile with smooth UI and in
 ### 🌤️ Mood Tracker App
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tonmoyofcl01-web/mood_app/main/assets/screenshots/mood_screenshot.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/tonmoyofcl01-web/mood-tracker-app/main/assets/screenshots/mood_screenshot.png" width="300"/>
 </p>
 
 A clean and interactive Flutter app that helps users track their daily moods with history and timestamps.
@@ -92,7 +92,7 @@ A clean and interactive Flutter app that helps users track their daily moods wit
 
 🛠 **Tech Used:** Flutter • Dart • Material 3 UI  
 
-🔗 https://github.com/tonmoyofcl01-web/mood_app  
+🔗 https://github.com/tonmoyofcl01-web/mood-tracker-app  
 
 ---
 

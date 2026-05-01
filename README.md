@@ -63,13 +63,7 @@ I am a Flutter developer focused on building **clean, responsive, and user-frien
 
 A modern Flutter application showcasing a personal profile with smooth UI and interactive features.
 
-✨ **Key Features:**
-- Smooth fade-in animation using `AnimatedOpacity`
-- Gradient UI design
-- Tap to copy phone & email
-- Snackbar feedback system
-
-🛠 **Tech Used:** Flutter • Dart • Material UI • Google Fonts  
+🛠 **Tech Used:** Flutter • Dart • Material UI  
 
 🔗 https://github.com/tonmoyofcl01-web/business-card-app  
 
@@ -83,35 +77,20 @@ A modern Flutter application showcasing a personal profile with smooth UI and in
 
 A clean Flutter app that helps users track daily moods with history and timestamps.
 
-✨ **Key Features:**
-- Select daily mood (Happy, Sad, Angry, Sleepy)
-- Animated UI cards
-- Mood history tracking
-- Timestamp per entry
-- Grid layout design
-
 🛠 **Tech Used:** Flutter • Dart • Material 3 UI  
 
 🔗 https://github.com/tonmoyofcl01-web/mood-tracker-app  
 
 ---
 
-## 🛠 My Development Journey
+## 📊 Performance & Milestones
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current_Stage-Building_Complex_UIs-02569B?style=flat-square&logo=flutter"/>
-  <img src="https://img.shields.io/badge/Next_Stop-State_Management-66A6FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning-Firebase_Backend-89F7FE?style=flat-square"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoyofcl01-web&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
-### 📈 Consistency Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoyofcl01-web&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tonmoyofcl01-web/tonmoyofcl01-web/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tonmoy's GitHub stats" />
 </p>
 
 <p align="center">

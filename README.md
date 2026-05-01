@@ -37,7 +37,7 @@ I am a Flutter developer focused on building **clean, responsive, and user-frien
 - 📱 Flutter UI development  
 - 🎨 Animations & modern UI design  
 - 🧠 Dart + app logic fundamentals  
-- 🔥 Preparing for API-based apps  
+- 🔥 API-based app development  
 
 ---
 
@@ -65,7 +65,7 @@ A modern Flutter application showcasing a personal profile with smooth UI and in
 
 ✨ **Key Features:**
 - Smooth fade-in animation using `AnimatedOpacity`
-- Gradient-based UI design
+- Gradient UI design
 - Tap to copy phone & email
 - Snackbar feedback system
 
@@ -81,14 +81,14 @@ A modern Flutter application showcasing a personal profile with smooth UI and in
   <img src="https://raw.githubusercontent.com/tonmoyofcl01-web/mood-tracker-app/main/assets/screenshots/mood_screenshot.png" width="300"/>
 </p>
 
-A clean and interactive Flutter app that helps users track their daily moods with history and timestamps.
+A clean Flutter app that helps users track daily moods with history and timestamps.
 
 ✨ **Key Features:**
 - Select daily mood (Happy, Sad, Angry, Sleepy)
-- Animated UI with modern card design
-- Mood history tracking with timestamps
-- Dynamic UI updates using state management
-- Grid-based responsive layout
+- Animated UI cards
+- Mood history tracking
+- Timestamp per entry
+- Grid layout design
 
 🛠 **Tech Used:** Flutter • Dart • Material 3 UI  
 
@@ -99,9 +99,11 @@ A clean and interactive Flutter app that helps users track their daily moods wit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyofcl01-web&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tonmoyofcl01-web&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

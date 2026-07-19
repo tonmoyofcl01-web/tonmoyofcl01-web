@@ -61,9 +61,8 @@ Aspiring MERN Stack Developer focused on building responsive, scalable, and user
 ## GitHub Statistics
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Profile-007acc?style=for-the-badge&logo=github" alt="GitHub Profile" />
   <img src="https://img.shields.io/github/followers/tonmoyofcl01-web?label=Followers&style=for-the-badge&color=007acc&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/tonmoyofcl01-web?label=Total%20Stars&style=for-the-badge&color=007acc&logo=github" alt="Total Stars" />
-  <img src="https://img.shields.io/github/repo-size/tonmoyofcl01-web?label=Total%20Repos&style=for-the-badge&color=007acc&logo=github" alt="Total Repositories" />
 </p>
 
 <p align="center">

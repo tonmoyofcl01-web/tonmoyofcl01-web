@@ -61,13 +61,17 @@ Aspiring MERN Stack Developer focused on building responsive, scalable, and user
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoyofcl01-web&theme=default" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonmoyofcl01-web&theme=default" alt="GitHub General Stats" />
+  <img src="https://img.shields.io/github/followers/tonmoyofcl01-web?label=Followers&style=for-the-badge&color=007acc&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/tonmoyofcl01-web?label=Total%20Stars&style=for-the-badge&color=007acc&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/github/repo-size/tonmoyofcl01-web?label=Total%20Repos&style=for-the-badge&color=007acc&logo=github" alt="Total Repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=tonmoyofcl01-web&theme=default" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoyofcl01-web&theme=default" alt="Top Languages by Commit" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,nodejs" alt="Top Languages Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoyofcl01-web&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---

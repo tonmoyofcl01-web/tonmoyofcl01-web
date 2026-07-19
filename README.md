@@ -1,40 +1,38 @@
 # Tonmoy Datta Topu
 
-Aspiring MERN Stack Web Developer focused on building responsive, scalable, and user-friendly web applications. I enjoy learning modern web technologies, solving real-world problems through code, and continuously improving my development skills.
+Aspiring MERN Stack Developer with a strong interest in building responsive, scalable, and user-focused web applications. Currently expanding my knowledge of modern JavaScript technologies while developing practical projects and strengthening problem-solving skills.
 
 ---
 
-## About Me
+## About
 
 - Undergraduate Computer Science & Engineering student
 - Currently learning the MERN Stack
 - Interested in Full Stack Web Development
-- Passionate about writing clean and maintainable code
-- Open to collaboration on beginner-friendly and open-source projects
+- Focused on writing clean, maintainable, and efficient code
+- Continuously improving through hands-on projects
 
 ---
 
-## Tech Stack
+## Technologies
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap
-- React (Learning)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
 ### Backend
-- Node.js (Learning)
-- Express.js (Learning)
 
-### Database
-- MongoDB (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- npm
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
 
 ---
 
@@ -50,30 +48,33 @@ Aspiring MERN Stack Web Developer focused on building responsive, scalable, and 
 
 ---
 
-## Current Goals
+## Goals
 
-- Build real-world MERN projects
-- Strengthen JavaScript fundamentals
+- Build production-quality MERN applications
+- Strengthen JavaScript and React fundamentals
+- Learn backend architecture and API development
 - Contribute to open-source projects
-- Become job-ready as a Full Stack Web Developer
+- Begin my professional career as a Full Stack Web Developer
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&hide_border=true&rank_icon=github"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyofcl01-web&layout=compact&hide_border=true"
+  />
 </p>
 
 ---
 
-## Connect With Me
+## Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
-
----
-
-> "The best way to learn programming is by building projects."
+- GitHub: https://github.com/tonmoyofcl01-web
+- Email: **tonmoy.ofcl01@gmail.com**

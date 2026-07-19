@@ -36,25 +36,12 @@ Aspiring MERN Stack Developer focused on building responsive, scalable, and user
 
 ---
 
-## Currently Learning
+## Featured Projects
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- REST API Development
-- Authentication & Authorization
-- Responsive Web Design
+Projects will be added here as they are completed.
 
----
-
-## Goals
-
-- Build production-ready MERN applications
-- Master JavaScript and React
-- Develop scalable backend APIs
-- Contribute to open-source projects
-- Launch a professional career as a Full Stack Web Developer
+- Survey Form (HTML & CSS)
+- Color Generator (HTML, CSS, JavaScript)
 
 ---
 
@@ -75,12 +62,25 @@ Aspiring MERN Stack Developer focused on building responsive, scalable, and user
 
 ---
 
-## Featured Projects
+## Currently Learning
 
-Projects will be added here as they are completed.
+- React
+- Node.js
+- Express.js
+- MongoDB
+- REST API Development
+- Authentication & Authorization
+- Responsive Web Design
 
-- Survey Form (HTML & CSS)
-- Color Generator (HTML, CSS, JavaScript)
+---
+
+## Goals
+
+- Build production-ready MERN applications
+- Master JavaScript and React
+- Develop scalable backend APIs
+- Contribute to open-source projects
+- Launch a professional career as a Full Stack Web Developer
 
 ---
 

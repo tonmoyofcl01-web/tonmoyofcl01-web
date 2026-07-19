@@ -1,6 +1,6 @@
 # Tonmoy Datta Topu
 
-Aspiring MERN Stack Developer with a strong interest in building responsive, scalable, and user-focused web applications. Currently expanding my knowledge of modern JavaScript technologies while developing practical projects and strengthening problem-solving skills.
+Aspiring MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications. Currently learning modern JavaScript technologies while strengthening my problem-solving and software development skills through practical projects.
 
 ---
 
@@ -9,12 +9,12 @@ Aspiring MERN Stack Developer with a strong interest in building responsive, sca
 - Undergraduate Computer Science & Engineering student
 - Currently learning the MERN Stack
 - Interested in Full Stack Web Development
-- Focused on writing clean, maintainable, and efficient code
+- Passionate about clean, maintainable, and efficient code
 - Continuously improving through hands-on projects
 
 ---
 
-## Technologies
+## Tech Stack
 
 ### Frontend
 
@@ -42,19 +42,19 @@ Aspiring MERN Stack Developer with a strong interest in building responsive, sca
 - Node.js
 - Express.js
 - MongoDB
-- REST APIs
-- Authentication
+- REST API Development
+- Authentication & Authorization
 - Responsive Web Design
 
 ---
 
 ## Goals
 
-- Build production-quality MERN applications
-- Strengthen JavaScript and React fundamentals
-- Learn backend architecture and API development
+- Build production-ready MERN applications
+- Master JavaScript and React
+- Develop scalable backend APIs
 - Contribute to open-source projects
-- Begin my professional career as a Full Stack Web Developer
+- Launch a professional career as a Full Stack Web Developer
 
 ---
 
@@ -63,18 +63,33 @@ Aspiring MERN Stack Developer with a strong interest in building responsive, sca
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=tonmoyofcl01-web&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
   />
-
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyofcl01-web&layout=compact&hide_border=true"
+    src="https://streak-stats.demolab.com?user=tonmoyofcl01-web&hide_border=true"
   />
 </p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyofcl01-web&layout=compact&hide_border=true&langs_count=8"
+  />
+</p>
+
+---
+
+## Featured Projects
+
+Projects will be added here as they are completed.
+
+- Survey Form (HTML & CSS)
+- Color Generator (HTML, CSS, JavaScript)
 
 ---
 
 ## Contact
 
 - GitHub: https://github.com/tonmoyofcl01-web
-- Email: **tonmoy.ofcl01@gmail.com**
+- Email: tonmoy.ofcl01@gmail.com

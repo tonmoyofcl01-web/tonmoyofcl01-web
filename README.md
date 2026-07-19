@@ -1,6 +1,16 @@
-# Tonmoy Datta Topu
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,100:0066FF&height=220&section=header&text=Tonmoy%20Datta%20Topu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+</p>
 
-<p align="left">
+<!-- Animated Typing Text -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Aspiring+MERN+Stack+Developer;CSE+Undergraduate+Student;Passionate+about+Clean+%26+Scalable+Code" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Role-Aspiring_MERN_Stack_Developer-0052CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Full_Stack_Web_Dev-0066FF?style=for-the-badge&logoColor=white" />
 </p>
@@ -47,8 +57,28 @@
 > [!NOTE]
 > *Projects are actively being built and added as they are completed.*
 
-- **[Survey Form](https://github.com/tonmoyofcl01-web/css-survey-form)** — `HTML` • `CSS`
-- **[Portfolio](https://github.com/tonmoyofcl01-web/html-portfolio)** — `HTML`
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Technologies Used</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Duplicate a <tr> block below when you complete a new project -->
+    <tr>
+      <td><b>Survey Form</b></td>
+      <td><code>HTML5</code> <code>CSS3</code></td>
+      <td><a href="https://github.com/tonmoyofcl01-web/css-survey-form">🔗 View Repository</a></td>
+    </tr>
+    <tr>
+      <td><b>Portfolio</b></td>
+      <td><code>HTML5</code></td>
+      <td><a href="https://github.com/tonmoyofcl01-web/html-portfolio">🔗 View Repository</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

@@ -1,55 +1,62 @@
 # Tonmoy Datta Topu
 
-Aspiring MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications. Currently learning modern JavaScript technologies while strengthening my problem-solving and software development skills through practical projects.
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Aspiring_MERN_Stack_Developer-0052CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Web_Dev-0066FF?style=for-the-badge&logoColor=white" />
+</p>
+
+> **Aspiring MERN Stack Developer** focused on building responsive, scalable, and user-friendly web applications. Currently learning modern JavaScript technologies while strengthening my problem-solving and software development skills through practical projects.
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-- Undergraduate Computer Science & Engineering student
-- Currently learning the MERN Stack
-- Interested in Full Stack Web Development
-- Passionate about clean, maintainable, and efficient code
-- Continuously improving through hands-on projects
+<p>
+  <sub><b>STUDENT & DEVELOPER</b></sub>
+</p>
+
+- 🎓 **Education:** Undergraduate Computer Science & Engineering student
+- 💻 **Current Focus:** Learning and mastering the **MERN Stack**
+- 🎯 **Specialization:** Full Stack Web Development
+- ⚡ **Philosophy:** Passionate about clean, maintainable, and efficient code
+- 🚀 **Growth:** Continuously improving through hands-on practical projects
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
-### Backend
-
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
-
+### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-Projects will be added here as they are completed.
+> [!NOTE]
+> *Projects are actively being built and added as they are completed.*
 
-- **[Survey Form](https://github.com/tonmoyofcl01-web/css-survey-form)** (HTML & CSS)
-- **[Portfolio](https://github.com/tonmoyofcl01-web/html-portfolio)** (HTML)
+- **[Survey Form](https://github.com/tonmoyofcl01-web/css-survey-form)** — `HTML` • `CSS`
+- **[Portfolio](https://github.com/tonmoyofcl01-web/html-portfolio)** — `HTML`
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-007acc?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  <img src="https://img.shields.io/github/followers/tonmoyofcl01-web?label=Followers&style=for-the-badge&color=007acc&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/github/followers/tonmoyofcl01-web?label=Followers&style=for-the-badge&color=0066FF&logo=github&logoColor=white" alt="Followers" />
 </p>
 
 <p align="center">
@@ -57,34 +64,42 @@ Projects will be added here as they are completed.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoyofcl01-web&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoyofcl01-web&theme=react-dark&bg_color=0B0F19&color=0066FF&line=0052CC&point=00A3FF&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- REST API Development
-- Authentication & Authorization
-- Responsive Web Design
-
----
-
-## Goals
-
-- Build production-ready MERN applications
-- Master JavaScript and React
-- Develop scalable backend APIs
-- Contribute to open-source projects
-- Launch a professional career as a Full Stack Web Developer
+<p>
+  <code>React</code> &nbsp;
+  <code>Node.js</code> &nbsp;
+  <code>Express.js</code> &nbsp;
+  <code>MongoDB</code> &nbsp;
+  <code>REST API Development</code> &nbsp;
+  <code>Authentication & Authorization</code> &nbsp;
+  <code>Responsive Web Design</code>
+</p>
 
 ---
 
-## Contact
+## 🎯 Goals
 
-- GitHub: https://github.com/tonmoyofcl01-web
-- Email: tonmoy.ofcl01@gmail.com
+- 📦 Build production-ready MERN applications
+- 🧠 Master JavaScript and React
+- 🔌 Develop scalable backend APIs
+- 🌐 Contribute to open-source projects
+- 💼 Launch a professional career as a Full Stack Web Developer
+
+---
+
+## 📬 Contact & Connect
+
+<p align="left">
+  <a href="https://github.com/tonmoyofcl01-web">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:tonmoy.ofcl01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tonmoy.ofcl01%40gmail.com-0052CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>

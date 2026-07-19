@@ -41,7 +41,7 @@ Aspiring MERN Stack Developer focused on building responsive, scalable, and user
 Projects will be added here as they are completed.
 
 - Survey Form (HTML & CSS)
-- Portfolio (HTML)
+- Portfolio (HTML) https://github.com/tonmoyofcl01-web/html-portfolio
 
 ---
 
